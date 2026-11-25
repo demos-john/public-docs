@@ -88,6 +88,7 @@
 * [GitHub & GitLab Sync](docs-as-code/git-sync/README.md)
   * [Enabling GitHub Sync](docs-as-code/git-sync/enabling-github-sync.md)
   * [Enabling GitLab Sync](docs-as-code/git-sync/enabling-gitlab-sync.md)
+  * [Enabling Bitbucket Sync](docs-as-code/git-sync/enabling-bitbucket-sync.md)
   * [Content configuration](docs-as-code/git-sync/content-configuration.md)
   * [GitHub pull request preview](docs-as-code/git-sync/github-pull-request-preview.md)
   * [Commit messages & Autolink](docs-as-code/git-sync/commits.md)
