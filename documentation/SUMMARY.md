@@ -21,6 +21,7 @@
   * [Inline content](create-content/formatting/inline.md)
   * [Markdown](create-content/formatting/markdown.md)
 * [Blocks](create-content/blocks/README.md)
+  * [Javascript Blocks](create-content/blocks/javascript-blocks.md)
   * [Paragraphs](create-content/blocks/paragraph.md)
   * [Headings](create-content/blocks/heading.md)
   * [Unordered lists](create-content/blocks/unordered-list.md)
