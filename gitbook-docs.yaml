@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: GitBook Documentation
+  title: Tests GitBook Documentation
   structure:
     - type: section
       key: section-1
