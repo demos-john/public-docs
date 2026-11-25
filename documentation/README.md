@@ -36,7 +36,7 @@ layout:
 
 ## Documentation your visitors actually read
 
-Your visitors are humans and their AI agents — GitBook publishes for both. Write in the editor, drive it from your agent, or sync from Git. Hello World!
+Your visitors are humans and their AI agents — GitBook publishes for both. Write in the editor, drive it from your agent, or sync from Git.&#x20;
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">What are you trying to do?</button>
 
