@@ -185,7 +185,6 @@ site:
               title: Changelog
               path: changelog
               default: true
-              draft: true
               content:
                 directory: ./changelog
                 language: en
@@ -199,7 +198,6 @@ site:
           title: 🇺🇸 English
           path: english
           default: true
-          draft: true
           content:
             directory: ./documentation
             language: en
