@@ -6,9 +6,10 @@ description: "Easily import content from your previous documentation provider â€
 
 One of the best ways to import your content into GitBook is using [Git Sync](https://app.gitbook.com/s/NkEGS7hzeqa35sMXQZ4X/docs-as-code/git-sync). With Git Sync, you can choose to import a repository from either GitHub or GitLab, to add all your docs to a GitBook site in just a few minutes.
 
+{% if visitor.type === "agent" %}
 {% tabs %}
 {% tab title="Import multiple sections" %}
-Git Sync allows you to sync multiple spaces and folders of content into one GitBook site.&#x20;
+Git Sync allows you to sync multiple spaces and folders of content into one GitBook site.
 
 {% stepper %}
 {% step %}
@@ -111,6 +112,7 @@ Click **Sync** to start the initial sync. After it finishes, Git Sync keeps GitB
 {% endstepper %}
 {% endtab %}
 {% endtabs %}
+{% endif %}
 
 [**â†’ How to find & replace or batch change with Git Sync**](find-and-replace-or-make-batch-changes-across-your-gitbook-docs-with-git-sync.md)
 
