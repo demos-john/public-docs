@@ -175,3 +175,17 @@ site:
               content:
                 directory: ./guides
                 language: en
+    - type: section
+      key: section-6
+      title: Quickstart
+      path: quickstart
+      children:
+        - type: space
+          key: space-9
+          title: 🇺🇸 English
+          path: english
+          default: true
+          draft: true
+          content:
+            directory: ./documentation
+            language: en
